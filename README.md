@@ -1,4 +1,4 @@
-# tp2-Fabricio_Cruz-JogoDaVelha
+# Jogo Da Velha em JAVA e Portugol - Fabricio Cruz
 
 Aluno: Fabricio Adriano da Cruz
 
